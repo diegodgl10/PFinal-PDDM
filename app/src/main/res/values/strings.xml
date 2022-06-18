@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+
+    <!-- App General -->
+    <string name="titulo">COMIDA RAPIDA</string>
+    <string name="pedido">Nombre para su pedido</string>
+    <string name="nombre">Nombre</string>
+    <string name="su_pedido">Su pedido cotendra:</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="tamanio">Tamanio:</string>
+    <string name="descuento">Cupon de descuento:</string>
+    <string name="codigo">Codigo</string>
+    <string name="pagar">$ Pagar $</string>
+
+    <!-- INGREDIENTES GENERALES -->
+    <string name="pinia">Pinia</string>
+    <string name="jalapenio">Jalapenio</string>
+    <string name="tocino">Tocino</string>
+
+    <!-- PEDIDO PIZZA -->
+    <string name="pizza">PIZZA</string>
+    <string name="su_pizza">Su pizza tendra:</string>
+    <string name="ticket_pizza">Ticket de su pizza:</string>
+    <!-- Tamanio Pizza -->
+    <string name="chica">Chica</string>
+    <string name="mediana">Mediana</string>
+    <string name="grande">Grande</string>
+    <!-- Ingredientes Pizza -->
+    <string name="jamon">Jamon</string>
+    <string name="chorizo">Chorizo</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="orilla_simple">Orilla sencilla</string>
+    <string name="orilla_con_queso">Orilla rellena de queso</string>
+
+    <!-- PEDIDO HAMBURGUESA -->
+    <string name="hamburguesa">HAMBURGUESA</string>
+    <string name="su_hamburquesa">Su hamburguesa tendra:</string>
+    <string name="ticket_hamburguesa">Ticket de su hamburguesa:</string>
+    <!-- Tamanio Hamburguesa -->
+    <string name="sencilla">Sencilla</string>
+    <string name="doble">Doble</string>
+    <!-- Ingredientes Hamburguesa -->
+    <string name="pepinillos">Pepinillos</string>
+    <string name="jitomate">Jitomate</string>
+    <string name="lechuga">Lechuga</string>
+    <string name="pan_con_ajonjoli">Pan con ajonjoli</string>
+
+    <!-- COMPLEMENTOS -->
+    <string name="papas">Papas a la francesa</string>
+    <string name="dip_ajo">Dip de ajo</string>
+    <string name="nuggets">Nuggets de pollo</string>
+
+    <!-- TICKETS -->
+    <string name="recibos">RECIBOS</string>
+    <string name="ticket_pedidos">Tickets de pedidos</string>
+
+    <!-- Toolbar -->
+    <string name="settings">Configuraciones</string>
+    <string name="coupon">Como usar cupon ?</string>
+    <string name="direction">Cambiar direccion de envio</string>
+    <string name="service_no">Numero de servicio</string>
+    <string name="split_between">Dividir cuenta entre usuarios</string>
+    <string name="save_my_order">Guardar pedido para mas tarde</string>
+    <string name="delete_my_order">Eliminar mi pedido</string>
+    <string name="title_activity_pago_hamburguesa">PagoHamburguesa</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
